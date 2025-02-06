@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "250109-200812-espidf-arduino-blink",
+			"path": "../../250109-200812-espidf-arduino-blink"
+		},
+		{
+			"name": "250105-205526-esp-wrover-kit",
+			"path": "../../250105-205526-esp-wrover-kit"
+		}
+	],
+	"settings": {}
+}
