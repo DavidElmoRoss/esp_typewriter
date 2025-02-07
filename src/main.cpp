@@ -3,7 +3,7 @@
 * Description : Take characters from keyboard and sends them to the screen.
 *               You can use ANSI ESCAPE SEQUENCES to clear the screen,
 *               position the cursor, and change text and background
-*               colouts 
+*               colours 
 * Auther      : David Elmo Ross
 * Modification: 2025/01/11
 **********************************************************************/
