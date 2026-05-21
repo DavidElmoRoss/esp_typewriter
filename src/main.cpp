@@ -23,7 +23,7 @@ void clear(void);                             // This function clears the screen
 void setup() 
 {
   // Set baud rate to 9600
-   Serial.begin(115200);                      // platformio.ini has monitor_speed = 115200
+   Serial.begin(9600);                      // platformio.ini has monitor_speed = 9600
                                               // make sure both are set to same value
 }
 
